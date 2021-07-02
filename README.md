@@ -68,6 +68,7 @@ sudo apt-get install python3-magic
 To find documentation about each sub-library, please see the READMEs in the respective directories.
 
 ## Assets
+## Assets
 
 We provide various media assets to use with some of our augmentations. These assets include:
 1. [Emojis](augly/assets/twemojis/) ([Twemoji](https://twemoji.twitter.com/)) - Copyright 2020 Twitter, Inc and other contributors. Code licensed under the MIT License. Graphics licensed under CC-BY 4.0.
